@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Choco</string>
+    <string name="ol_bem_vindo_a">Olá, bem - vindo (a)</string>
+    <string name="qual_o_seu_nome">Qual é o seu nome?</string>
+</resources>
